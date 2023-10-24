@@ -1,5 +1,5 @@
 # Nashville Housing Data 
-
+![Straightway-1](https://github.com/gitbykaran/Housing-Data-Cleaning-using-SQL/assets/147580511/438e5f16-c4d5-47e4-80fe-63e4bce43db9)
 ## Project Description
 This project involves cleaning a dataset containing housing information in the USA using SQL.
 
